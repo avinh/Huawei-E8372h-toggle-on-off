@@ -1,0 +1,26 @@
+{
+  "name": "huawei-e8372",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "superagent": "^6.1.0",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vmom-master/mini-tool/huawei-e8372-on-off.git"
+  },
+  "author": "Anh Vinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vmom-master/mini-tool/huawei-e8372-on-off/issues"
+  },
+  "homepage": "https://gitlab.com/vmom-master/mini-tool/huawei-e8372-on-off#readme"
+}
